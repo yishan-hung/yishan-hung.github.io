@@ -10,7 +10,7 @@ redirect_from:
 
 I'm currently a First year student majoring at Biomedical Engineering (Honor) & Medical Science in University of Sydney.
 
-I love to investigate neural basis of motivation and its interaction with memory by studying behavior in the fruit fly Drosophila. Previously, I was fortune to work as Research Intern with [Prof. Sung-Jan Lin]([https://aliensunmin.github.io/](http://sjlin.cm.ntu.edu.tw/web/home)) at National Taiwan University and Research Student with [Prof. Sue-Wei Lin](https://sueweilin.wixsite.com/linlab) in Institute of Molecular Biology, Academia Sinica.
+I love to investigate neural basis of motivation and its interaction with memory by studying behavior in the fruit fly Drosophila. Previously, I was fortune to work as Research Intern with [Prof. Sung-Jan Lin](http://sjlin.cm.ntu.edu.tw/web/home) at National Taiwan University and Research Student with [Prof. Sue-Wei Lin](https://sueweilin.wixsite.com/linlab) in Institute of Molecular Biology, Academia Sinica.
 
 
 
