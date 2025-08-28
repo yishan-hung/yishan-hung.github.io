@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](../files/cv.pdf)
+[Download full CV here](../files/Resume_intern.pdf)
 
 Education
 ======
-* B.S. in Biomedical Engineering (Honor) & Medical Science, University Of Sydney
-* Taipei Municipal Zhong Shan Girls’ High School, Graduated with Prominent Mayor’s Award of Extraordinary Academic Performance, GPA: 3.78/4
+* B.Eng in Biomedical Engineering (Honour) & B.S. in Medical Science, University Of Sydney
+* B.Eng exchange in Biomedical Engineering, Denmark Technical University 
 
 Research experience
 ======
