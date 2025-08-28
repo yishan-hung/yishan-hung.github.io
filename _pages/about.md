@@ -17,7 +17,11 @@ I thrive at the intersection of science, technology, and empathy, and I’m espe
 ---
 **Recent News**
 *Feb. 2025 - Present* BioTech Australia Competition Tutor
-*Jun. 2024 - Jun. 2025* Exchange in Denmark Technical University 
+
+
+*Jun. 2024 - Jun. 2025* Exchange in Denmark Technical University
+
+
 *Dec. 2023 - Jun. 2024* Research Intern at the University of Technology, Sydney
 
 ---
