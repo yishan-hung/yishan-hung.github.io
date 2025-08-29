@@ -16,21 +16,6 @@ Education
 * B.Eng in Biomedical Engineering (Honour) & B.S. in Medical Science, University Of Sydney
 * B.Eng exchange in Biomedical Engineering, Denmark Technical University
 
-Relevant project experience
-======
-* Water Tower Maintenance App, Engineers without boarder DK
-  * Designed a low-literacy, AI-guided mobile app to support community-led water tower upkeep in Sierra Leone.
-  * Applied human-centered design and sustainability principles to deliver an accessible, field-ready solution.
- 
-* Hormonal Intrauterine Device (IUD) Design and Development
-  * Technical and scientific research on intrauterine device (IUD) design, focusing on safety, usability, and patient needs.
-  * Gained exposure to ISO standards, regulatory compliance, and medical device documentation and innovation design
-
-* MRSA Vaccine Design
-  * Applied bioinformatics and structural biology tools to design a novel peptide-based MRSA vaccine candidate.
-  * Strengthened skills in molecular modelling, data analysis, and translational biomedical innovation.
-  * Desing on antibody, adjuvants, and immunomodulators selection process with toxicology, efficacy, and post-marketing surveillance experiment design.
-
 Research experience
 ======
 * Human Artificial Intelligence (HAI) Centre, University of Technology Sydney, Research Intern
@@ -48,6 +33,21 @@ Research experience
   * Utilized fluorescent staining and confocal imaging by dissecting over 500 drosophila’s brains, detecting low level of a tubulin type in mushroom body, which correlates with high-salt diet induced learning defect regarding tubulins.
   * Collaborated with PhD student to experiment with new ideas that critical cells of olfactory sensation engaging in decision making for appetitive training using optogenetic.
   * Implemented insect crawling timer and related paper web crawler by Python, improving the data analysis efficiency about 30% and accuracy improve around 7% in two months.
+
+Relevant project experience
+======
+* Water Tower Maintenance App, Engineers without boarder DK
+  * Designed a low-literacy, AI-guided mobile app to support community-led water tower upkeep in Sierra Leone.
+  * Applied human-centered design and sustainability principles to deliver an accessible, field-ready solution.
+ 
+* Hormonal Intrauterine Device (IUD) Design and Development
+  * Technical and scientific research on intrauterine device (IUD) design, focusing on safety, usability, and patient needs.
+  * Gained exposure to ISO standards, regulatory compliance, and medical device documentation and innovation design
+
+* MRSA Vaccine Design
+  * Applied bioinformatics and structural biology tools to design a novel peptide-based MRSA vaccine candidate.
+  * Strengthened skills in molecular modelling, data analysis, and translational biomedical innovation.
+  * Desing on antibody, adjuvants, and immunomodulators selection process with toxicology, efficacy, and post-marketing surveillance experiment design.
 
 Skills
 ======
